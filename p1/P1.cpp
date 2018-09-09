@@ -3,6 +3,7 @@
 namespace cg
 { // begin namespace cg
 
+// Uma pequena mudança
 inline Primitive*
 makeBoxMesh()
 {
